@@ -101,8 +101,8 @@ This ensures DCAs act first on accounts needing urgent attention.
 
 ### UI Preview (GIF)
 
-```markdown
-![UI GIF](assets/demo.gif)
+```
+![Demo GIF](assets/demo.gif)
 ```
 ---
 
