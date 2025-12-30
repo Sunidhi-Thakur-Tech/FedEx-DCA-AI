@@ -99,7 +99,7 @@ FedEx-DCA-AI/
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   ```
+````
 
 3. Run Streamlit app:
 
@@ -125,3 +125,5 @@ FedEx-DCA-AI/
 * SLA monitoring and alerts
 * GenAI-powered negotiation assistants
 * Deployment on cloud platforms
+
+---
