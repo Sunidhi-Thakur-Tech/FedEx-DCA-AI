@@ -102,9 +102,8 @@ This ensures DCAs act first on accounts needing urgent attention.
 ### UI Preview (GIF)
 
 ```markdown
-![UI GIF](assets/ui.gif)
+![UI GIF](assets/demo.gif)
 ```
-
 ---
 
 ## 🔄 End-to-End Workflow
