@@ -126,7 +126,4 @@ FedEx-DCA-AI/
 * SLA monitoring and alerts
 * GenAI-powered negotiation assistants
 * Deployment on cloud platforms
-
-```
-
 ---
