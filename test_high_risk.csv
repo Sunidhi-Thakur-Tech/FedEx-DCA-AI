@@ -1,0 +1,6 @@
+amount_due,ageing_days,past_payment_history,contact_attempts,customer_risk_score
+45000,140,0,9,3
+38000,120,0,8,3
+42000,160,0,7,3
+50000,180,0,10,3
+35000,130,0,6,3
